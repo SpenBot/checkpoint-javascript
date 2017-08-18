@@ -12,7 +12,7 @@ var colorsArray = [
 // #2: Access the last item in the array and assign to a variable called `last`.
 // Type your solution immediately below this line:
 
-var lasr = colorsArray[colorsArray.length - 1];
+var last = colorsArray[colorsArray.length - 1];
 
 // #3: Create an empty array called `favoriteColors`.
 // Type your solution immediately below this line:
@@ -40,4 +40,4 @@ var instructor = {
 // a boolean value.
 // Type your solution immediately below this line:
 
-instructor.facial-hair = true;
+instructor['facial-hair'] = true;
